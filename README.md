@@ -34,6 +34,8 @@ This project aims to analyze patient appointment behavior and predict no-show oc
 
 The dataset contains historical clinic appointment records with patient-related and appointment-related information.
 
+Dataset link: https://www.kaggle.com/datasets/wajahat1064/healthcare-appointment-dataset/data
+
 ---
 
 # Technologies Used
